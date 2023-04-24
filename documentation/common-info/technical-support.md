@@ -1,3 +1,8 @@
+---
+title: Technical support
+description: Technical support descr
+---
+
 ## Technical Support
 
 Before contacting Customer Support, please make sure you have the following information:
